@@ -1,0 +1,7 @@
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\bin\PortfolioASP.NET.dll.config
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\bin\PortfolioASP.NET.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\bin\PortfolioASP.NET.pdb
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\obj\Debug\PortfolioASP.NET.csproj.AssemblyReference.cache
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\obj\Debug\PortfolioASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\obj\Debug\PortfolioASP.NET.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 3\Practicas\U2- Portfolio ASP.NET\PortfolioASP.NET\PortfolioASP.NET\obj\Debug\PortfolioASP.NET.pdb
